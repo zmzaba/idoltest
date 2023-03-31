@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 @Service
-public class UserServiceStub {
+public class  UserServiceStub {
 
     private static Map<Long, User> users = new HashMap<>();
     public static Long index = 2L;

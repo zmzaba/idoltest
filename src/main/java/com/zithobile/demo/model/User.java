@@ -15,6 +15,7 @@ public class User {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
+        this.contactNumber = contactNumber;
     }
 
     public Long getId() {
